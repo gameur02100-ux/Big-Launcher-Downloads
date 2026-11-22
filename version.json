@@ -1,14 +1,14 @@
 {
-  "version": "1.0.5",
-  "notes": "Mise a jour depuis Internet, sauvegarde des donnees, diagnostic de l'installation, choix et diagnostic de la manette.",
+  "version": "1.0.7",
+  "notes": "Diagnostic manette : montre une manette presente mais bloquee par Windows, signale une manette Xbox ignoree par le mode choisi.",
   "page": "https://github.com/gameur02100-ux/Big-Launcher-Downloads/releases",
   "patch": {
-    "from": "",
-    "url": "",
-    "sha256": ""
+    "from": "1.0.5",
+    "url": "https://github.com/gameur02100-ux/Big-Launcher-Downloads/releases/download/v1.0.7/Patch-1.0.5-vers-1.0.7.zip",
+    "sha256": "388cdd9572f74a49917aea54536dcdbfd460af7c30748cc251384e9255a84e28"
   },
   "full": {
-    "url": "https://github.com/gameur02100-ux/Big-Launcher-Downloads/releases/download/v1.0.5/BigLauncher-1.0.5-win-x64-20261122-113349.zip",
-    "sha256": "0ef177ee28f40a1551a0cb14dd4a00be31d68f610a9e4be86d548f699fc909d9"
+    "url": "https://github.com/gameur02100-ux/Big-Launcher-Downloads/releases/download/v1.0.7/BigLauncher-1.0.7-win-x64-20261122-114651.zip",
+    "sha256": "6d7ac9181cbba9271e4ab9cc6eed4118cd25b117285bc20e347f5fc303ef845a"
   }
 }
