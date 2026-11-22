@@ -1,14 +1,14 @@
 {
-  "version": "1.0.8",
-  "notes": "Diagnostic manette complet : inventaire des appareils HID et logiciels qui peuvent cacher la manette.",
+  "version": "1.0.9",
+  "notes": "Manettes Bluetooth lues meme sans collection HID standard (Switch Pro), inventaire HID dans le diagnostic.",
   "page": "https://github.com/gameur02100-ux/Big-Launcher-Downloads/releases",
   "patch": {
-    "from": "1.0.7",
-    "url": "https://github.com/gameur02100-ux/Big-Launcher-Downloads/releases/download/v1.0.8/Patch-1.0.7-vers-1.0.8.zip",
-    "sha256": "54b54aaf276a61ecddbbece317a4c3c5c1d026002f95116325014a1ba5421c5c"
+    "from": "1.0.8",
+    "url": "https://github.com/gameur02100-ux/Big-Launcher-Downloads/releases/download/v1.0.9/Patch-1.0.8-vers-1.0.9.zip",
+    "sha256": "04015d440549cf3d11b5859660362ba6b9f451dff49ed25424206750e942bc0b"
   },
   "full": {
-    "url": "https://github.com/gameur02100-ux/Big-Launcher-Downloads/releases/download/v1.0.8/BigLauncher-1.0.8-win-x64-20261122-115943.zip",
-    "sha256": "eb88c14411df753ad99b03f33d5df687d263b87afde26bce054d1c7185476f1e"
+    "url": "https://github.com/gameur02100-ux/Big-Launcher-Downloads/releases/download/v1.0.9/BigLauncher-1.0.9-win-x64-20261122-120200.zip",
+    "sha256": "0fda0f68f9d3bdc7f3c13d4a78704f7d81b4231156678273a0b4193f4b0591e7"
   }
 }
