@@ -1,14 +1,14 @@
 {
-  "version": "1.0.7",
-  "notes": "Diagnostic manette : montre une manette presente mais bloquee par Windows, signale une manette Xbox ignoree par le mode choisi.",
+  "version": "1.0.8",
+  "notes": "Diagnostic manette complet : inventaire des appareils HID et logiciels qui peuvent cacher la manette.",
   "page": "https://github.com/gameur02100-ux/Big-Launcher-Downloads/releases",
   "patch": {
-    "from": "1.0.5",
-    "url": "https://github.com/gameur02100-ux/Big-Launcher-Downloads/releases/download/v1.0.7/Patch-1.0.5-vers-1.0.7.zip",
-    "sha256": "388cdd9572f74a49917aea54536dcdbfd460af7c30748cc251384e9255a84e28"
+    "from": "1.0.7",
+    "url": "https://github.com/gameur02100-ux/Big-Launcher-Downloads/releases/download/v1.0.8/Patch-1.0.7-vers-1.0.8.zip",
+    "sha256": "54b54aaf276a61ecddbbece317a4c3c5c1d026002f95116325014a1ba5421c5c"
   },
   "full": {
-    "url": "https://github.com/gameur02100-ux/Big-Launcher-Downloads/releases/download/v1.0.7/BigLauncher-1.0.7-win-x64-20261122-114651.zip",
-    "sha256": "6d7ac9181cbba9271e4ab9cc6eed4118cd25b117285bc20e347f5fc303ef845a"
+    "url": "https://github.com/gameur02100-ux/Big-Launcher-Downloads/releases/download/v1.0.8/BigLauncher-1.0.8-win-x64-20261122-115943.zip",
+    "sha256": "eb88c14411df753ad99b03f33d5df687d263b87afde26bce054d1c7185476f1e"
   }
 }
