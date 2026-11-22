@@ -1,6 +1,6 @@
 {
-  "version": "1.0.4",
-  "notes": "Choix et diagnostic de la manette, sauvegarde des donnees, mise a jour depuis Internet.",
+  "version": "1.0.5",
+  "notes": "Mise a jour depuis Internet, sauvegarde des donnees, diagnostic de l'installation, choix et diagnostic de la manette.",
   "page": "https://github.com/gameur02100-ux/Big-Launcher-Downloads/releases",
   "patch": {
     "from": "",
@@ -8,7 +8,7 @@
     "sha256": ""
   },
   "full": {
-    "url": "https://github.com/gameur02100-ux/Big-Launcher-Downloads/releases/download/v1.0.4/BigLauncher-1.0.4-win-x64-20261122-112212.zip",
-    "sha256": "37b3ca4da84eb1fc07db21c481d217b5c7673a0ffd1d28743134077de4041c5c"
+    "url": "https://github.com/gameur02100-ux/Big-Launcher-Downloads/releases/download/v1.0.5/BigLauncher-1.0.5-win-x64-20261122-113349.zip",
+    "sha256": "0ef177ee28f40a1551a0cb14dd4a00be31d68f610a9e4be86d548f699fc909d9"
   }
 }
