@@ -1,0 +1,14 @@
+{
+  "version": "1.0.4",
+  "notes": "Mise a jour depuis Internet, sauvegarde des donnees et diagnostic de l'installation.",
+  "page": "https://github.com/gameur02100-ux/Big-Launcher-Downloads/releases",
+  "patch": {
+    "from": "",
+    "url": "",
+    "sha256": ""
+  },
+  "full": {
+    "url": "",
+    "sha256": ""
+  }
+}

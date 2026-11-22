@@ -1,0 +1,6 @@
+BIG LAUNCHER - DISTRIBUTION
+===========================
+Ce depot ne contient aucun code source : uniquement version.json et les ZIP
+publies dans les Releases. Le code du launcher reste prive.
+
+version.json = fichier lu par le launcher (Parametres > Mises a jour).
